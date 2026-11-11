@@ -1,0 +1,20 @@
+Example frames (one per defect class), resized to 1600 px wide.
+
+Reference:
+Hu, W., Chen, C., Su, S., Zhang, J., and Zhu, A., 2024, "Real-time defect detection for FFF 3D
+printing using lightweight model deployment," The International Journal of Advanced Manufacturing
+Technology, 134(9), pp. 4871-4885. DOI: 10.1007/s00170-024-14452-4
+
+Obtained from a public copy of the dataset (third-party, not necessarily the authors' release):
+https://huggingface.co/datasets/ppak10/Additive-Manufacturing-Benchmark
+(folder source/FDM-3D-Printing-Defect-Dataset)
+
+Copyright: images (c) the original authors (Hu et al., 2024). No dataset license was found or
+checked; no license is granted here. Confirm the terms with the authors/publisher before
+redistributing or publishing these images, and cite the reference above.
+
+cracking.jpg     <- Cracking/Image_20231128200136974.jpg
+layer_shift.jpg  <- Layer_shifting/Image_20231128160837016.jpg
+off-platform.jpg <- Off_platform/Image_20231228113802865.jpg
+stringing.jpg    <- Stringing/Image_20231228205049981.jpg
+warping.jpg      <- Warping/Image_20231228115302905.jpg

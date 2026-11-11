@@ -1,0 +1,20 @@
+# Secrets - never commit
+.env
+.env.*
+!.env.example
+
+# Local environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.nicegui/
+
+# Old prototypes and local outputs
+archive/
+*.log
+audit_*.json
+
+# Dataset images (third-party, download with get_sample_frames.sh)
+sample_frames/*.jpg
