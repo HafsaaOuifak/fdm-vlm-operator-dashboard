@@ -2,8 +2,6 @@
 
 A guardrailed dashboard where a vision-language model (GPT-4.1, GPT-5.4, GPT-5.4 mini, or a local Ollama model) looks at a 3D-print image, names the FDM defect, and suggests corrective actions from a fixed 13-action library for an operator to approve. It never controls the printer.
 
-A friendlier step-by-step version of this guide is in [README.html](README.html) (download it and open it in a browser).
-
 ## 1. Get the project on your computer
 
 You need [Git](https://git-scm.com/downloads) and [Python 3.10+](https://www.python.org/downloads/).
